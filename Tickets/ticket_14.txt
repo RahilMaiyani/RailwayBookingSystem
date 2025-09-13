@@ -1,0 +1,17 @@
+
+----------------------------------
+          TRAIN TICKET         
+----------------------------------
+Booking ID: 14
+Passenger ID: 84775
+Passenger Name: John Doe
+Passenger Contact: 1234512345
+Train No: 19015
+Train Name: Saurashtra Express
+Date of travel: 2024-03-21
+From: Mumbai  To: Okha
+Departure: 12:45  Arrival: 08:30
+Seat No(s): 1
+Payment Method: Net Banking
+Total Amount Paid: Rs. 1500
+----------------------------------

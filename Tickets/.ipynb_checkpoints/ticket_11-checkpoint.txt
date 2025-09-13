@@ -1,0 +1,17 @@
+
+----------------------------------
+          TRAIN TICKET         
+----------------------------------
+Booking ID: 11
+Passenger ID: 84766
+Passenger Name: Rahil Maiyani
+Passenger Contact: 8799141046
+Train No: 20909
+Train Name: Ahmedabad Mumbai Vande Bharat
+Date of travel: 2024-03-25
+From: Ahmedabad  To: Mumbai
+Departure: 15:00  Arrival: 21:15
+Seat No(s): 1
+Payment Method: UPI
+Total Amount Paid: Rs. 1800
+----------------------------------

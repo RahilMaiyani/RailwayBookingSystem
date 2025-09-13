@@ -1,0 +1,17 @@
+
+----------------------------------
+          TRAIN TICKET         
+----------------------------------
+Booking ID: 12
+Passenger ID: 84774
+Passenger Name: Uday Chauhan
+Passenger Contact: 9876987690
+Train No: 19033
+Train Name: Gujarat Queen
+Date of travel: 2024-03-20
+From: Mumbai  To: Ahmedabad
+Departure: 06:25  Arrival: 12:15
+Seat No(s): 3
+Payment Method: Cash
+Total Amount Paid: Rs. 3000
+----------------------------------

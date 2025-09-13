@@ -1,0 +1,17 @@
+
+----------------------------------
+          TRAIN TICKET         
+----------------------------------
+Booking ID: 10
+Passenger ID: 84767
+Passenger Name: Lewis Hamilton
+Passenger Contact: 9870698760
+Train No: 12270
+Train Name: Mumbai Duronto
+Date of travel: 2024-03-19
+From: Mumbai  To: Howrah
+Departure: 17:00  Arrival: 19:30
+Seat No(s): 4
+Payment Method: Net Banking
+Total Amount Paid: Rs. 10000
+----------------------------------

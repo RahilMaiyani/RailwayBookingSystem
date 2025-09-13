@@ -1,0 +1,17 @@
+
+----------------------------------
+          TRAIN TICKET         
+----------------------------------
+Booking ID: 13
+Passenger ID: 84767
+Passenger Name: Lewis Hamilton
+Passenger Contact: 9870698760
+Train No: 20908
+Train Name: Mumbai Ahmedabad Vande Bharat
+Date of travel: 2024-03-25
+From: Mumbai  To: Ahmedabad
+Departure: 06:10  Arrival: 12:25
+Seat No(s): 5
+Payment Method: Card
+Total Amount Paid: Rs. 9000
+----------------------------------

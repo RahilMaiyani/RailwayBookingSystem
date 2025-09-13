@@ -1,0 +1,17 @@
+
+----------------------------------
+          TRAIN TICKET         
+----------------------------------
+Booking ID: 16
+Passenger ID: 84777
+Passenger Name: Charles Leclerc
+Passenger Contact: 1616161616
+Train No: 12301
+Train Name: Shatabdi Express
+Date of travel: 15-02-2025
+From: New Delhi  To: Bhopal
+Departure: 06:00  Arrival: 14:30
+Seat No(s): 1
+Payment Method: Card
+Total Amount Paid: Rs. 1200
+----------------------------------
